@@ -1,0 +1,65 @@
+1	1	6.13	Omelette Cheese Sandwich
+1	2	7.08	Sausage & Omelette Cheese Sandwich
+1	3	7.64	Crispy Chicken & Scrambled Egg Sandwich
+1	4	7.64	Sausage & Scrambled Egg Sandwich
+1	5	6.70	Scrambled Egg Sandwich
+1	6	7.97	Crispy Chicken Muffin
+1	7	8.73	Crispy Chicken Muffin with Egg
+1	8	6.98	Sausage McMuffin
+1	9	7.64	Sausage McMuffin with Egg
+1	10	10.57	Double Sausage McMuffin with Egg
+1	11	11.32	Big Breakfast
+1	12	10.85	2 pcs Hotcakes
+
+4	1	7.55	Nasi Lemak McD
+4	4	6.98	Bubur Ayam McD (Small)
+4	5	8.21	Bubur Ayam McD (Medium)
+
+7	6	10.47	Bubur Ayam McD
+7	7	9.43	Sausage McMuffin
+7	8	10.00	2 pcs Hotcakes
+
+8	1	13.68	Iced Blended Chocolate with OREO
+8	2	13.68	Iced Blended Mocha with OREO
+8	3	12.74	Ice Blended Latte
+8	4	11.32	2x Iced Latte (M)
+8	5	8.96	Ice Blended Strawberry
+8	6	8.96	Ice Blended Mango Peach
+8	7	14.06	Iced Blended Milo
+8	8	12.74	Ice Blended Chocolate
+8	9	9.34	Iced Chocolate
+8	10	12.74	Ice Blended Mocha
+8	11	9.34	Iced Mocha
+8	12	9.34	Iced Latte
+8	13	7.45	Iced Americano
+8	14	7.83	Flat White
+8	15	7.83	Hot Latte
+8	16	7.83	Cappuccino
+8	17	5.94	Americano
+
+9	1	11.79	Pandan Gula Melaka Cake
+9	2	11.79	Apple Crumble Cheesecake
+9	3	11.79	Belgium Chocolate Cake
+9	4	11.79	Classic Cheesecake
+9	5	11.79	Cookies & Cream Cheesecake
+9	6	11.79	Red Velvet Cake
+
+10	1	11.79	3pcs Macarons
+10	3	6.51	Dinosaur McFlurry
+10	4	7.08	OREO McFlurry
+10	5	4.81	Chocolate Sundae
+10	6	4.81	Strawberry Sundae
+10	10	4.53	Hash Browns
+
+11	1	4.72	100 Plus
+11	2	4.72	Coca-Cola
+11	3	4.72	Sprite
+11	4	6.42	Iced Lemon Tea
+11	5	6.60	Minute Maid Orange Juice
+11	6	4.72	Drinking water
+11	7	7.55	MILO
+11	8	4.91	Hot MILO
+11	9	5.00	Hot Teh Tarik
+11	10	4.91	Hot Tea
+
+12	5	0.94	Sambal
